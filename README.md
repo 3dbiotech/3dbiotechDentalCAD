@@ -7,13 +7,13 @@ BDC es un software de modelado 3D enfocado al sector dental basado en el proyect
 ## Características
 
 Modulos:
--Panel de herrramientas
--Paleta de colores de resinas Formlabs
--Herramientas de escultura más usadas en el sector dental
--Importación de modelos
--Reduccion de mallas
--Creador de modelos automatico
--Exportación de modelos
+*Panel de herrramientas
+*Paleta de colores de resinas Formlabs
+*Herramientas de escultura más usadas en el sector dental
+*Importación de modelos
+*Reduccion de mallas
+*Creador de modelos automatico
+*Exportación de modelos
 	
 Configuración:
 -Interfaz optimizada para modelado dental
@@ -26,5 +26,6 @@ Configuración:
 2. Edit>Preferences>Add-ons
 3. Install --> Seleccionar "3dbiotechDentalCAD_addon" ubicada en la carpeta 3dbiotechDentalCAD_install
 4. Edit>Preferences>Themes
-5. Install --> Seleccionar "3dbiotech.xml" ubicada en la carpeta BDC_install
+5. Install --> Seleccionar "3dbiotech.xml" ubicada en la carpeta 3dbiotechDentalCAD_install
 ```
+This repositori uses the GPL 3.0.

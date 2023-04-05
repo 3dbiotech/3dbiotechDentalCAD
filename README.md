@@ -1,6 +1,6 @@
 # 3dbiotechDentalCAD - DEMO
 
-BDC es un software de modelado 3D enfocado al sector dental basado en el proyecto de código abierto Open Dental CAD con mejoras de cara a la automatización e implementación en CLINIC5.0
+3dbiotechDentalCAD es un software de modelado 3D enfocado al sector dental basado en el proyecto de código abierto Open Dental CAD con mejoras de cara a la automatización e implementación en CLINIC5.0
 
 
 

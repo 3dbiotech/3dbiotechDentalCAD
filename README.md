@@ -22,9 +22,9 @@ Configuración:
 ``` shell
 ## Installation
 
-1. Ejecutar blender
+1. Ejecutar Blender 3.5
 2. Edit>Preferences>Add-ons
-3. Install --> Seleccionar "BDC_addon.zip" ubicada en la carpeta BDC_install
+3. Install --> Seleccionar "3dbiotechDentalCAD_addon" ubicada en la carpeta 3dbiotechDentalCAD_install
 4. Edit>Preferences>Themes
 5. Install --> Seleccionar "3dbiotech.xml" ubicada en la carpeta BDC_install
 ```

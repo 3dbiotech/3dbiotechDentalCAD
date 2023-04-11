@@ -1,3 +1,4 @@
+*.html linguist-language=python
 *.py    text
 *.pyc   binary
 *.pyo   binary
@@ -5,5 +6,3 @@
 *.so    binary
 *.dll   binary
 *.dylib binary
-
-*.html linguist-language=python

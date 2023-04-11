@@ -24,8 +24,8 @@ Configuración:
 
 1. Ejecutar Blender 3.5
 2. Edit>Preferences>Add-ons
-3. Install --> Seleccionar "3dbiotechDentalCAD_addon" ubicada en la carpeta 3dbiotechDentalCAD_install
+3. Install --> Seleccionar "3dbiotechDentalCAD_addon.zip" ubicada en la carpeta 3dbiotechDentalCAD_addon
 4. Edit>Preferences>Themes
-5. Install --> Seleccionar "3dbiotech.xml" ubicada en la carpeta 3dbiotechDentalCAD_install
+5. Install --> Seleccionar "3dbiotech.xml" ubicada en la carpeta 3dbiotechDentalCAD_addon
 ```
 This repositori uses the GPL 3.0.

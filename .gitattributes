@@ -1,0 +1,7 @@
+*.py    text
+*.pyc   binary
+*.pyo   binary
+*.egg   binary
+*.so    binary
+*.dll   binary
+*.dylib binary

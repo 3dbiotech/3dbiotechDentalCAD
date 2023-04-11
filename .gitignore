@@ -1,0 +1,28 @@
+# Ignorar archivos .pyc
+*.pyc
+
+# Ignorar el directorio __pycache__
+__pycache__/
+
+# Ignorar el archivo de configuración de virtualenv
+/.venv/
+
+# Ignorar archivos generados por la herramienta de documentación Sphinx
+docs/_build/
+
+# Ignorar archivos generados por la herramienta de pruebas pytest
+.pytest_cache/
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos generados por el editor de código Visual Studio Code
+.vscode/
+
+# Ignorar archivos generados por PyCharm
+.idea/
+
+# Ignorar archivos generados por la herramienta de construcción setuptools
+dist/
+build/
+*.egg-info/

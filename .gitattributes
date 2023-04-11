@@ -5,3 +5,5 @@
 *.so    binary
 *.dll   binary
 *.dylib binary
+
+*.html linguist-language=python

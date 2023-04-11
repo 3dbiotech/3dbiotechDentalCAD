@@ -2,10 +2,7 @@ En Blender, un "theme" (tema) es una configuración personalizada que define la 
 
 La opción para cambiar el tema se encuentra en el menú de preferencias de Blender, que se puede acceder a través de la ventana de propiedades. En el menú de preferencias, seleccione la pestaña "Temas" para acceder a las opciones de personalización del tema.
 
-El cambio de tema en Blender puede ser útil para los artistas que prefieren un esquema de color diferente o que tienen dificultades para ver ciertos colores. También puede ser útil para adaptar la interfaz de usuario a diferentes entornos de trabajo, como para trabajar en un ambiente oscuro o luminoso.
-
-Existen muchos temas personalizados disponibles para Blender, que se pueden descargar e instalar desde la comunidad de Blender. Además, los usuarios también pueden crear y personalizar sus propios temas utilizando las opciones de personalización del tema en Blender.
-
+El cambio de tema en Blender puede ser útil para los usuarios poco experimentados en blender ya que adapta la interfaz de usuario a diferentes entornos de trabajo, como para trabajar con escaneados intraorales.
 
 Para instalar el tema que tienes en formato .xml, sigue estos pasos para instalarlo en Blender:
 
